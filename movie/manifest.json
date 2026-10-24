@@ -1,7 +1,7 @@
 {
-  "name": "JKHX Player - Kho Phim & TV (Movie / TV)",
+  "name": "JKHX Player - Official Plugins (Movie / TV)",
   "version": 1,
-  "description": "Kho plugin nguồn phim lẻ, phim bộ chính thức cho JKHX Player",
+  "description": "Kho plugin nguồn phim lẻ, phim bộ mẫu cho JKHX Player",
   "plugins": [
     {
       "id": "kkphim",
