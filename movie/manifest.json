@@ -32,33 +32,6 @@
       ]
     },
     {
-      "id": "nguonc",
-      "name": "NguonC",
-      "version": "1.2.6",
-      "author": "JP",
-      "description": "Nguồn phim NguonC API (phim.nguonc.com)",
-      "entry": "nguonc/plugin.js",
-      "language": "vi",
-      "isAdult": false,
-      "defaultDomain": "https://phim.nguonc.com",
-      "iconUrl": "https://img.nguonc.com/images/img-09db3eee40f54cb2460578bf4de12a59a794f0bed8f461d9442b4073c20bed2d.png",
-      "types": [
-        "movie",
-        "tv"
-      ],
-      "capabilities": [
-        "home",
-        "menu",
-        "list",
-        "search",
-        "detail",
-        "stream",
-        "filters",
-        "settings",
-        "health"
-      ]
-    },
-    {
       "id": "vsmov",
       "name": "VSMov",
       "version": "1.0.1",
@@ -130,90 +103,6 @@
       "hasSettings": true,
       "defaultDomain": "https://yini.tv",
       "iconUrl": "https://backimg.1vkx.cn/common/vodvip/upload/logo/20260514_043055_3F6tV92Y.png",
-      "capabilities": [
-        "home",
-        "menu",
-        "list",
-        "search",
-        "detail",
-        "stream",
-        "filters",
-        "settings",
-        "health"
-      ]
-    },
-    {
-      "id": "hhpanda",
-      "name": "HHPanda",
-      "version": "1.0.2",
-      "author": "JP",
-      "description": "Nguồn xem phim hoạt hình 3D Trung Quốc (HH3D) 4K Vietsub & Thuyết Minh từ HHPanda (hhpanda.st)",
-      "entry": "hhpanda/plugin.js",
-      "language": "vi",
-      "isAdult": false,
-      "types": [
-        "movie",
-        "tv"
-      ],
-      "hasSettings": true,
-      "defaultDomain": "https://hhpanda.st",
-      "iconUrl": "https://hhpanda.st/wp-content/uploads/2024/10/logo.webp",
-      "capabilities": [
-        "home",
-        "menu",
-        "list",
-        "search",
-        "detail",
-        "stream",
-        "filters",
-        "settings",
-        "health"
-      ]
-    },
-    {
-      "id": "yanhh3d",
-      "name": "YanHH3D",
-      "version": "1.0.6",
-      "author": "JP",
-      "description": "Nguồn xem hoạt hình Trung Quốc 3D/4K/2D Thuyết Minh & Vietsub từ YanHH3D (yanhh3d.chat)",
-      "entry": "yanhh3d/plugin.js",
-      "language": "vi",
-      "isAdult": false,
-      "types": [
-        "movie",
-        "tv"
-      ],
-      "hasSettings": true,
-      "defaultDomain": "https://yanhh3d.chat",
-      "iconUrl": "https://yanhh3d.chat/storage/settings/January2026/logo.png",
-      "capabilities": [
-        "home",
-        "menu",
-        "list",
-        "search",
-        "detail",
-        "stream",
-        "filters",
-        "settings",
-        "health"
-      ]
-    },
-    {
-      "id": "film4k",
-      "name": "Film4k",
-      "version": "1.0.4",
-      "author": "JP",
-      "description": "Nguồn xem phim 4K/FHD miễn phí, phim lẻ & phim bộ thuyết minh, phụ đề tiếng Việt từ Film4k (fiml4k.fun / film4k.net)",
-      "entry": "film4k/plugin.js",
-      "language": "vi",
-      "isAdult": false,
-      "types": [
-        "movie",
-        "tv"
-      ],
-      "hasSettings": true,
-      "defaultDomain": "https://fiml4k.fun",
-      "iconUrl": "https://fiml4k.fun/logo-64.png",
       "capabilities": [
         "home",
         "menu",
